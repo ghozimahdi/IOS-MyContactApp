@@ -1,0 +1,51 @@
+[
+    {
+        "id":0,
+        "nama":"Ghozi Mahdi",
+        "img":"icybay",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":1,
+        "nama":"Muhammad Abdul Aziz",
+        "img":"lakemcdonald",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":2,
+        "nama":"Muhammad Abdul Malik",
+        "img":"charleyrivers",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":3,
+        "nama":"Imam Syaputra",
+        "img":"stmarylake",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":4,
+        "nama":"Abi santosi",
+        "img":"umbagog",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":5,
+        "nama":"Irfan kuraniawan",
+        "img":"twinlake",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    },
+    {
+        "id":6,
+        "nama":"Gilang Pramana",
+        "img":"hiddenlake",
+        "email":"email1@gmail.com",
+        "phone":"085741244919"
+    }
+]
